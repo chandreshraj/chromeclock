@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chandreshraj/chromeclock/static/css/main.b3280f44.chunk.css",
+    "main.js": "/chandreshraj/chromeclock/static/js/main.65baabf8.chunk.js",
+    "main.js.map": "/chandreshraj/chromeclock/static/js/main.65baabf8.chunk.js.map",
+    "runtime-main.js": "/chandreshraj/chromeclock/static/js/runtime-main.8c6e14a7.js",
+    "runtime-main.js.map": "/chandreshraj/chromeclock/static/js/runtime-main.8c6e14a7.js.map",
+    "static/js/2.36b53390.chunk.js": "/chandreshraj/chromeclock/static/js/2.36b53390.chunk.js",
+    "static/js/2.36b53390.chunk.js.map": "/chandreshraj/chromeclock/static/js/2.36b53390.chunk.js.map",
+    "index.html": "/chandreshraj/chromeclock/index.html",
+    "precache-manifest.c777f0f400aa469c0569b264c888434c.js": "/chandreshraj/chromeclock/precache-manifest.c777f0f400aa469c0569b264c888434c.js",
+    "service-worker.js": "/chandreshraj/chromeclock/service-worker.js",
+    "static/css/main.b3280f44.chunk.css.map": "/chandreshraj/chromeclock/static/css/main.b3280f44.chunk.css.map",
+    "static/js/2.36b53390.chunk.js.LICENSE.txt": "/chandreshraj/chromeclock/static/js/2.36b53390.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c6e14a7.js",
+    "static/js/2.36b53390.chunk.js",
+    "static/css/main.b3280f44.chunk.css",
+    "static/js/main.65baabf8.chunk.js"
+  ]
+}
