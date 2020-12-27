@@ -10,11 +10,6 @@ class App extends Component {
       <div className="clock-page">
         <Clock clock="ClockData"></Clock>
         <Quotes quotes={quotesText}></Quotes>
-        <div>.</div>
-        <div>.</div>
-        <div>.</div>
-        <div>.</div>
-        <div>.</div>
       </div>
     );
   }
