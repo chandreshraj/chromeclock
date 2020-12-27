@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chromeclock/static/css/main.b6a9d5ef.chunk.css",
+    "main.css": "/chromeclock/static/css/main.3297c83b.chunk.css",
     "main.js": "/chromeclock/static/js/main.972a48f6.chunk.js",
     "main.js.map": "/chromeclock/static/js/main.972a48f6.chunk.js.map",
     "runtime-main.js": "/chromeclock/static/js/runtime-main.b7f23a5c.js",
@@ -8,15 +8,15 @@
     "static/js/2.36b53390.chunk.js": "/chromeclock/static/js/2.36b53390.chunk.js",
     "static/js/2.36b53390.chunk.js.map": "/chromeclock/static/js/2.36b53390.chunk.js.map",
     "index.html": "/chromeclock/index.html",
-    "precache-manifest.dddaf371735840c6e7ebe474bfddbdb0.js": "/chromeclock/precache-manifest.dddaf371735840c6e7ebe474bfddbdb0.js",
+    "precache-manifest.d015d625538e8dd73712de43b0620c50.js": "/chromeclock/precache-manifest.d015d625538e8dd73712de43b0620c50.js",
     "service-worker.js": "/chromeclock/service-worker.js",
-    "static/css/main.b6a9d5ef.chunk.css.map": "/chromeclock/static/css/main.b6a9d5ef.chunk.css.map",
+    "static/css/main.3297c83b.chunk.css.map": "/chromeclock/static/css/main.3297c83b.chunk.css.map",
     "static/js/2.36b53390.chunk.js.LICENSE.txt": "/chromeclock/static/js/2.36b53390.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b7f23a5c.js",
     "static/js/2.36b53390.chunk.js",
-    "static/css/main.b6a9d5ef.chunk.css",
+    "static/css/main.3297c83b.chunk.css",
     "static/js/main.972a48f6.chunk.js"
   ]
 }
