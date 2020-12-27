@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
 
 .clock-page{
-    height: 150%;
+    min-height: 97vh;
     font-family: 'karla','Courier New', Courier, monospace; 
     background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
 }
